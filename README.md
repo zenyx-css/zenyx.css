@@ -116,10 +116,11 @@
 <h1>Install</h1>
 <a href="https://zenyxis.com/downloads">zenyxis.com</a>
 Make sure to place the link tag in the head tag if chosen, place @import in the stylesheet, whether internal or external.
+If you directly install it, it will never be updated unless you reinstall the new version from <a href="https://zenyxis.com/downloads">zenyxis.com</a>
+It's really not reccomended.
 
 <h1>Status & Updates</h1>
-Current Status: **WORK-IN-PROGRESS, NOT EVEN CLOSE TO BEING FINISHED**
-
+Current Status: <b>WORK-IN-PROGRESS, NOT EVEN CLOSE TO BEING FINISHED</b>
 <h2>Update v1</h2>
 Initial Release
 
