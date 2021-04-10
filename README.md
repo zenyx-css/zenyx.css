@@ -8,7 +8,7 @@
 <p>zenyx.css is currently in development, and shouldn't be used standalone, while possible, it's not reccomended</p>
 
 <h1>How do I use it?</h1>
-<p>Using the framework is extremely easy. Simple head over <a href="https://zenyxis.com/zenyx">here</a> and follow the steps as instructed in the "How do I use this?" section<p>
+<p>Using the framework is extremely easy. Simply head over <a href="https://zenyxis.com/zenyx">here</a> and follow the steps as instructed in the "How do I use this?" section<p>
 
 <h1>Standard documentation</h1>
 <table>
