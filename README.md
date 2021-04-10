@@ -50,11 +50,11 @@
   </tr>
   <tr>
     <td>zx-text-(property)</td>
-    <td>zx-margin(l,r,t,b)-(1 through 10)</td>
+    <td>zx-text-(color, alignment, style, responsive)</td>
     <td>Changes the text style</td>
     <td>Text</td>
     <td>zx-text-blue</td>
-    <td>Can be any basic color, and can be any alighnment. use zx-text-responsive to align center on mobile screens</td>
+    <td>Can be any basic color, and can be any alighnment. use zx-text-responsive to align center on mobile screens. You may also use zx-text-simple to change the font to RALEWAY</td>
     <td>Any text tag</td>
   </tr>
   <tr>
